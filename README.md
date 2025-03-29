@@ -17,3 +17,4 @@ Database for Holy Quran
 
 ## License
 It's totally free, just a good prayer is enough :)
+"# quran-database" 
